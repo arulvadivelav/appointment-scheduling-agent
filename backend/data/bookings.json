@@ -1,0 +1,47 @@
+[
+  {
+    "booking_id": "BC4AABF5",
+    "status": "confirmed",
+    "confirmation_code": "0QR8GZ",
+    "appointment_type": "consultation",
+    "date": "2025-11-13",
+    "start_time": "16:30",
+    "end_time": "17:00",
+    "patient": {
+      "name": "arul",
+      "email": "arul@example.com",
+      "phone": "+91 9876543210"
+    },
+    "reason": "General checkup"
+  },
+  {
+    "booking_id": "APPT-4A068F49",
+    "status": "confirmed",
+    "confirmation_code": "DDB7YV",
+    "appointment_type": "consultation",
+    "date": "2025-11-12",
+    "start_time": "10:30",
+    "end_time": "11:00",
+    "patient": {
+      "name": "Arul",
+      "email": "user@example.com",
+      "phone": "+918888"
+    },
+    "reason": "Fever"
+  },
+  {
+    "booking_id": "APPT-663E29DB",
+    "status": "confirmed",
+    "confirmation_code": "9P6Y62",
+    "appointment_type": "consultation",
+    "date": "2025-11-12",
+    "start_time": "09:00",
+    "end_time": "09:30",
+    "patient": {
+      "name": "string",
+      "email": "user@example.com",
+      "phone": "string"
+    },
+    "reason": "string"
+  }
+]
